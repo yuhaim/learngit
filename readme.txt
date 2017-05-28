@@ -5,4 +5,4 @@ Git tracks changes of files.
 git push origin master
 Creating a new branch is quick and simple.
 merge with no fast forward
-
+git has a stash space
